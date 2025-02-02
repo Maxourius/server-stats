@@ -1,4 +1,4 @@
 # server-stats
 monitor linux server stats
 
-https://github.com/Maxourius/server-stats
+https://roadmap.sh/projects/server-stats
